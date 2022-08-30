@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.img1{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    min-height: 400px;
+    opacity: 0.75;
+}
+
+.header1{
+    background-color: grey;
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+    height: 60px;
+    overflow: hidden;
+
+}
+.header-div{
+    margin: 0rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.group-div{
+    margin: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon1{
+    margin-right: 8px;
+}
+/* .img1{
+    background-image: url('parallax1.jpg');
+} */
+/* .img1{
+    background-image: url('parallax2.jpg');
+    background-image: url('parallax1.jpg');
+    background-image: url('parallax3.jpg');
+} */
+/* .img3{
+    background-image: url('parallax3.jpg');
+} */
+/* .img1 div {
+    color: #fff!important;
+    background-color: #000!important;
+    align-items: center;
+}
+.img1 div span{
+    color: blue !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img2 div {
+    color: #fff!important;
+    background-color: #000!important;
+    align-items: center;
+}
+.img2 div span{
+    color: blue !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img3 div {
+    color: #fff!important;
+    background-color: #000!important;
+    align-items: center;
+}
+.img3 div span{
+    color: blue !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+
+
+
+/* 
+.image1{
+    background-image: url('parallax1.jpg');
+}
+.image2{
+    background-image: url('parallax2.jpg');
+}
+.image3{
+    background-image: url('parallax3.jpg');
+} */
+
+.img-group{
+    margin-bottom: 2rem;
+}
+.img1 div span h1{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: grey;
+}
+/* .img1 div span h1:nth-of-type(1){
+    width: 6rem;
+    margin-left: 38rem;}
+.img1 div span h1:nth-of-type(2){
+    width: 38rem;
+    margin-left: 38rem;
+}
+.img1 div span h1:nth-of-type(3){
+    width: 7rem;
+    margin-left: 38rem;
+} */
+div img{
+    width: 60%;
+    height: 60%;
+}
